@@ -1,0 +1,17 @@
+{
+    "name": "Opsive.UltimateCharacterController",
+    "rootNamespace": "",
+    "references": [
+        "Opsive.Shared",
+        "EventAggregator"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
